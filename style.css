@@ -1,0 +1,31 @@
+body
+{
+   background-color: rgb(241, 201, 201);
+}
+#score
+{
+  font-size: 45px;
+  background-color: rgb(226, 96, 96) ;
+  border-radius:20px;
+  font-family: 'Courier New', Courier, monospace;
+  color:whitesmoke;
+  margin-left: 10px;
+}
+#timer
+{
+    font-size: 45px;
+    background-color: rgb(226, 96, 96) ;
+    border-radius:20px;
+    font-family: 'Courier New', Courier, monospace;
+    color:whitesmoke;
+    float: right;
+    margin-right: 70px;
+  }
+  #stbd
+  {
+      color: rgb(157, 188, 224);
+  }
+  #show_sketch
+  {
+      font-size: 55%;
+  }
